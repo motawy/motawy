@@ -20,7 +20,7 @@ Always aiming to create scalable applications and to grow professionally.
 ## A little more about me
 
 ```javascript
-const mido = {
+const motawy = {
     code: ["Javascript", "Typescript", "Golang"],
     interests: ["Boxing", "Tech", "Gaming"],
     backend: {

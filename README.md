@@ -7,14 +7,13 @@ I focus on building **scalable, reliable, and testable applications** using Go, 
 🎯 Goal: grow into architecture and system design leadership.  
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=motawy&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motawy&layout=compact&theme=radical" height="180">
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=motawy&theme=radical&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=motawy&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motawy&layout=compact&theme=tokyonight" height="160">
+  <img src="https://streak-stats.demolab.com?user=motawy&theme=tokyonight&hide_border=true" height="160">
 </p>
+
 
 ## Main technologies
 

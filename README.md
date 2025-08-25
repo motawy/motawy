@@ -1,3 +1,11 @@
+## 👋 Hello | Hola | Ciao | こんにちは
+
+I’m Mohammed, a Software Engineer from Brisbane, specializing in **Backend Development**.  
+I focus on building **scalable, reliable, and testable applications** using Go, Node.js, and Python.  
+
+💡 Passionate about clean code, cloud-native systems, and continuous learning.  
+🎯 Goal: grow into architecture and system design leadership.  
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=motawy&show_icons=true&theme=radical" height="180">
@@ -7,15 +15,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=motawy&theme=radical&hide_border=true" height="180">
 </p>
-
-
-## 👋 Hello | Hola | Ciao | こんにちは
-
-I’m Mohammed, a Software Engineer from Brisbane, specializing in **Backend Development**.  
-I focus on building **scalable, reliable, and testable applications** using Go, Node.js, and Python.  
-
-💡 Passionate about clean code, cloud-native systems, and continuous learning.  
-🎯 Goal: grow into architecture and system design leadership.  
 
 ## Main technologies
 

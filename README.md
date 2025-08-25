@@ -1,14 +1,15 @@
-![Visitor Count](https://profile-counter.glitch.me/motawy/count.svg)
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=motawy&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=motawy&layout=compact&theme=radical)
+![](https://streak-stats.demolab.com?user=motawy&theme=radical&hide_border=true)
 
-## Hello | Hola | Ciao | こんにちは
-<!-- 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Software+Engineer;Coffee+Addict">
-</p> -->
+## 👋 Hello | Hola | Ciao | こんにちは
 
-I am Software Engineer currently focused on Backend Development.
+I’m Mohammed, a Software Engineer from Brisbane, specializing in **Backend Development**.  
+I focus on building **scalable, reliable, and testable applications** using Go, Node.js, and Python.  
 
-Always aiming to create scalable applications and to grow professionally.
+💡 Passionate about clean code, cloud-native systems, and continuous learning.  
+🎯 Goal: grow into architecture and system design leadership.  
 
 ## Main technologies
 
@@ -17,6 +18,16 @@ Always aiming to create scalable applications and to grow professionally.
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python&logoColor=white)
+
+## 🌱 Currently Learning
+- Advanced Go concurrency patterns
+- AWS serverless architectures
+- Security best practices in backend development
+
+## 🤝 Open to Collaborate On
+- Go or Python backend projects
+- Cloud-native architectures (AWS / Docker / Kubernetes)
+- Open source backend frameworks
 
 ## A little more about me
 

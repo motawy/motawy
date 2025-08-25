@@ -57,4 +57,4 @@ const motawy = {
 
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/motawy/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=motawy&style=for-the-badge)

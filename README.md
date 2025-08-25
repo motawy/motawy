@@ -1,7 +1,13 @@
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=motawy&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=motawy&layout=compact&theme=radical)
-![](https://streak-stats.demolab.com?user=motawy&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=motawy&show_icons=true&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motawy&layout=compact&theme=radical" height="180">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=motawy&theme=radical&hide_border=true" height="180">
+</p>
+
 
 ## 👋 Hello | Hola | Ciao | こんにちは
 
@@ -44,4 +50,12 @@ const motawy = {
     currentFocus: "Golang"
 };
 ```
+
+## 📫 How to Reach Me
+- Portfolio: [mido-dev.com](https://mido-dev.com)  
+- LinkedIn: [linkedin](https://linkedin.com/in/mohammed-tantawy)  
+- Email: [contact me](mailto:mtantawy.mido@gmail.com)
+
 <br>
+
+![Visitor Count](https://profile-counter.glitch.me/motawy/count.svg)
